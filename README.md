@@ -1,7 +1,7 @@
-# Leaf-Lab
+# Leaf-Lab🌼
 Plant disease classification using CNN to identify plant diseases.
 
-# Plant Disease Classification using CNN
+# Plant Disease Classification using CNN 🌱🌿
 
 This repository contains code for a Convolutional Neural Network (CNN) based plant disease classification model. The model is trained to classify various plant diseases using images from the Kaggle dataset. It achieves an accuracy of 87.14% after 5 epochs of training on a Google Colab T4 GPU.
 
@@ -46,6 +46,10 @@ https://colab.research.google.com/drive/1CRT9Ht4qtZFrST67S6MhSvDDXsOiAfbn?usp=sh
 - **GPU**: Google Colab T4
 - **Epochs**: 5
 - **Accuracy**: 87.14%
+
+Note:
+![image](https://github.com/ayushtan123/Leaf-Lab/assets/121681555/f697b2d0-4601-420a-aabb-ec48d5248535)
+Here put location of your kaggle.json to connect
 
 ![Screenshot 2024-03-18 205540](https://github.com/ayushtan123/Leaf-Lab/assets/121681555/00854162-ee63-4331-9f27-e2f12abf3718)
 ![Screenshot 2024-03-18 203321](https://github.com/ayushtan123/Leaf-Lab/assets/121681555/e9a8558f-f1bd-47ac-981d-0ce3b79b2af8)
